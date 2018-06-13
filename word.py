@@ -90,10 +90,10 @@ image_colors = ImageColorGenerator(back_coloring)
 
 plt.imshow(wc.recolor(color_func=image_colors))
 plt.axis("off")
+# 保存图片
+wc.to_file(path.join(d, imgname2))
 # 绘制背景图片为颜色的图片
 plt.figure()
 plt.imshow(back_coloring)
 plt.axis("off")
 plt.show()
-# 保存图片
-wc.to_file(path.join(d, imgname2))
