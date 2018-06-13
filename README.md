@@ -16,10 +16,9 @@
 > Prefix dict has been built succesfully. 
 
 原图：  
-![姜文原图](https://raw.githubusercontent.com/RealEasyin/WordCloud/master/%E5%A7%9C%E6%96%87.jpg)
-词云图：
-![姜文词云图]
-()
+![姜文原图](https://raw.githubusercontent.com/RealEasyin/WordCloud/master/%E5%A7%9C%E6%96%87.jpg)  
+词云图：  
+![姜文词云图](https://raw.githubusercontent.com/RealEasyin/WordCloud/master/%E5%A7%9C%E6%96%87.png)
 
 ## 依赖库
 
